@@ -27,5 +27,8 @@ The repository is organized as follows:
 ├── Particle swarm optimization.ipynb                    # Notebook for the PSO run
 ├── Genetic Algorithm.ipynb                              # Notebook for the GA run
 ├── Simulated annealing.ipynb                            # Notebook for the SA run
-└── CMA-ES.ipynb                                         # Notebook for the CMA-ES run
+├──CMA-ES.ipynb                                         # Notebook for the CMA-ES run
+│
+├── Calibration Analysis.ipynb                          # To analyse the individual / Ensemble calibration perfromance
+├── Validation Analysis.ipynb                           # To analyse the individual / Ensemble validation perfromance
 ```
