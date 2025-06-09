@@ -50,7 +50,9 @@ Set Initial Conditions: In the appropriate Jupyter Notebook (e.g., Differential 
 
 catchment_area_acres: The area of the sewershed.
 time_step_seconds: The duration of each time step in seconds (e.g., 600 for 10 minutes).
+
 Define the search range (minimum and maximum values) for the T and K parameters.
+
 Run the Optimization: Execute the notebook cells. The chosen algorithm will run 20 times.
 
 Export Results: Upon completion, save the results to an Excel file. 
