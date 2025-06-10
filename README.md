@@ -1,10 +1,11 @@
 # RTK-UH-Optimization-Algorithms
-**"[An Ensemble Optimization of the RTK Unit Hydrograph]"**
+
+**"Ensemble Optimization for Calibrating RTK Unit Hydrographs"**
 
 
 ## Description
 
-This project provides the Python implementation of five metaheuristic algorithms used to calibrate the RTK unit hydrograph for a Rainfall derived inflow and infiltration assessment'].
+This project provides the Python implementation of five metaheuristic algorithms used to calibrate the RTK unit hydrograph for a Rainfall derived inflow and infiltration assessment.
 
 The algorithms implemented are:
 
