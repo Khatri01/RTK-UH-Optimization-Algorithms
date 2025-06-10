@@ -36,9 +36,9 @@ The repository is organized as follows:
 ## Methodology Workflow
 It is implemented in three main stages:
 
-Parameter Optimization: Running the algorithms to find the best RTK parameters for each storm event.
+Parameter Optimization: Running the algorithms to find the best RTK parameters for each RDII event.
 Performance Analysis: Analyzing how well the optimized parameters simulate a given event.
-Cross-Validation: Testing the robustness of the parameters on events they were not trained on.
+Cross-Validation: Testing the robustness of the parameters on events they were not calibrated.
 
 
 ### Part 1: Initial Parameter Optimization
