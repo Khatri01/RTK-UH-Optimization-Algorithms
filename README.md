@@ -41,7 +41,7 @@ Performance Analysis: Analyzing how well the optimized parameters simulate a giv
 Cross-Validation: Testing the robustness of the parameters on events they were not calibrated.
 
 
-### Part 1: Initial Parameter Optimization
+### Part 1: Parameter Optimization
 For each storm event, the goal is to find a set of optimal RTK parameters using the provided optimization algorithms.
 
 Prepare Input Data: For each event, create an Excel file (.xlsx) containing three columns: Timesteps, Observed RDII, and Rainfall.
@@ -64,6 +64,7 @@ Performance Metrics Sheet: The calculated R², NSE, RMSE, PBIAS, and Fitness sco
 This stage involves analyzing the performance of an algorithm or an ensemble of parameters for a specific event.
 
 Load Event Data: Start with the data for the event you wish to analyze (Rainfall, Observed RDII, Time step).
+#### Individual/ Ensemble configuration
 Select Configuration: Choose the algorithm or ensemble of parameters to be analyzed.
 Generate and Save Plot: The analysis script will produce and save a figure that visualizes:
 The observed flow.
