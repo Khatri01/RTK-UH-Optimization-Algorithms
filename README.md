@@ -49,7 +49,7 @@ Prepare Input Data: For each event, create an Excel file (.xlsx) containing thre
 Set Initial Conditions: In the appropriate Jupyter Notebook (e.g., Differential Evolution.ipynb), configure the global parameters:
 
 catchment_area_acres: The area of the sewershed.
-time_step_seconds: The duration of each time step in seconds (e.g., 600 for 10 minutes).
+time_step_seconds: The duration of each time step in seconds .
 
 Define the search range (minimum and maximum values) for the T and K parameters.
 
